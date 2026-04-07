@@ -1,0 +1,5 @@
+{
+  "name": "HR 萬能助手 - 抽籤與分組工具",
+  "description": "專為 HR 設計的工具，支援 CSV 上傳名單、隨機抽籤（含動畫）以及自動分組功能。",
+  "requestFramePermissions": []
+}
